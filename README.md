@@ -1,7 +1,7 @@
 ## Hello There 👋
 
 
-- 🌱 Estudando Typescript, Django, Flask
+- 🌱 Estudando ML, DataScience,PowerBI, Flask, Django
 - 📫 E-mail: carlosfranch29@gmail.com / carlosaragaoneto@edu.unifor.br
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Python > Javascript
