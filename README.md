@@ -1,7 +1,12 @@
 ## Hello There 👋
 
 
-- 🌱 Estudando ML, DataScience,PowerBI, Flask, Django
+🎓 Estudante de Ciência da Computação (Unifor)
+💻 Experiência em Data Science & Full Stack
+⚙️ Python | JavaScript | Flask | FastAPI | React | Pandas | Sklearn
+🚀 Interesse em ML, visão computacional e deep learning
+
+
 - 📫 E-mail: carlosfranch29@gmail.com / carlosaragaoneto@edu.unifor.br
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Python > Javascript
