@@ -5,7 +5,7 @@
 
 💻 Experiência em Data Science & Full Stack
 
-⚙️ Python | JavaScript | Flask | FastAPI | React | Pandas | Sklearn
+⚙️ Python | SQL | Flask | FastAPI | React | Pandas | Sklearn
 
 🚀 Interesse em ML, visão computacional e deep learning
 
